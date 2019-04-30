@@ -118,7 +118,7 @@ void package_ads1115(OSCBundle *bndl, char packet_header_string[])
   char address_string[255];
 
   //W/m^2
-  sprintf(address_string, "%s%s%s%s", packet_header_string, "/", ads1115_0x48_name, "apogee");
+  sprintf(address_string, "%s%s%s%s", packet_header_string, "/", ads1115_0x48_name, "SP-110 reading");
   bndl->add(address_string).add((int32_t)state_ads1115.radiance);
   
 }
@@ -128,6 +128,7 @@ void package_ads1115(OSCBundle *bndl, char packet_header_string[])
 //
 // This function uses the ADC to read a voltage differential between two analog inputs.
 // It reads in a voltage and will be converted into mV.
+//
 //
 
 void measure_ads1115(){
