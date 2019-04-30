@@ -45,7 +45,11 @@ void measure_ads1115();
 // 
 // @return  Whether or not sensor initialization was successful
 //
+//
 
+
+// currently the mux can't find this sensor, could be due to the address location that is programmed or 
+// hardware wiring
 bool setup_ads1115()
 {                
   //Setup Here
