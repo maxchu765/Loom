@@ -57,11 +57,11 @@ struct state_ms5803_t {
 
 #if i2c_addr_ms5803_0x76 == 1
 	struct state_ms5803_t state_ms5803_0x76;
-	MS_5803 sensor_0x76 = MS_5803(0x76, 512);
+	MS_5803 sensor_0x76 = MS_5803(512);
 #endif
 #if i2c_addr_ms5803_0x77 == 1
 	struct state_ms5803_t state_ms5803_0x77;
-	MS_5803 sensor_0x77 = MS_5803(0x77, 512);
+	MS_5803 sensor_0x77 = MS_5803(512);
 #endif
 
 uint16_t MS_PROM[8]; //storing calibration data
@@ -181,7 +181,6 @@ void measure_ms5803()
 	// Get sensor readings
 
 	#if i2c_addr_ms5803_0x76 == 1
-    sensor_0x76.initializeMS_5803(); //Reinitialize sensor. Quick hack to fix coefficients being overwritten
 		sensor_0x76.readSensor();
 
 		state_ms5803_0x76.pressure = sensor_0x76.pressure();
@@ -206,3 +205,5 @@ void measure_ms5803()
 		#endif
 	#endif
 }
+
+
