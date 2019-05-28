@@ -1,0 +1,51 @@
+
+#include "Loom_Decagon_5TM.h"
+
+/////////////////////////////////////////////////////////////////////
+Loom_Decagon5TM::Loom_Decagon5TM(	
+		const char*		module_name,
+		uint8_t			num_samples 
+	) 
+	: LoomSDI12Sensor( module_name, num_samples ) 
+{
+	this->module_type = ModuleType::Decagon5TM;
+
+
+
+}
+
+/////////////////////////////////////////////////////////////////////
+// --- CONSTRUCTOR ---
+Loom_Decagon5TM::Loom_Decagon5TM(JsonVariant p)
+	: Loom_Decagon5TM(p[0], p[1]) 
+{}
+
+/////////////////////////////////////////////////////////////////////
+// --- DESTRUCTOR ---
+Loom_Decagon5TM::~Loom_Decagon5TM() {}
+
+/////////////////////////////////////////////////////////////////////
+// --- PUBLIC METHODS ---
+void Loom_Decagon5TM::print_config()
+{
+	LoomSDI12Sensor::print_config();
+}
+
+/////////////////////////////////////////////////////////////////////
+void Loom_Decagon5TM::print_measurements()
+{
+
+}
+
+/////////////////////////////////////////////////////////////////////
+void Loom_Decagon5TM::measure()
+{
+
+}
+
+/////////////////////////////////////////////////////////////////////
+void Loom_Decagon5TM::package(OSCBundle& bndl, char* suffix)
+{
+
+}
+
