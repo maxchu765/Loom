@@ -1,0 +1,5 @@
+<map id="LoomLogPlat" name="LoomLogPlat">
+<area shape="rect" id="node3" href="$class_loom___o_l_e_d.html" title="OLED logging platform module. " alt="" coords="5,155,105,181"/>
+<area shape="rect" id="node4" href="$class_loom___s_d.html" title="SD logging platform module. " alt="" coords="129,155,213,181"/>
+<area shape="rect" id="node2" href="$class_loom_module.html" title="Abstract root of Loom component modules inheritance hierarchy. " alt="" coords="61,5,165,32"/>
+</map>

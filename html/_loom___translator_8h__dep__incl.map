@@ -1,0 +1,51 @@
+<map id="src/Loom_Translator.h" name="src/Loom_Translator.h">
+<area shape="rect" id="node2" href="$_loom_8h.html" title="src/Loom.h" alt="" coords="1576,341,1669,367"/>
+<area shape="rect" id="node3" href="$_loom___manager_8h.html" title="File for LoomManager definition. " alt="" coords="5203,162,5357,189"/>
+<area shape="rect" id="node22" href="$_loom___module_8h.html" title="File for LoomModule definition. " alt="" coords="3539,80,3685,107"/>
+<area shape="rect" id="node50" href="$_loom___translator_8cpp.html" title="File for definitions of general purpose functions to convert the type of single values or arrays..." alt="" coords="3760,80,3936,107"/>
+<area shape="rect" id="node4" href="$_loom___comm_plat_8cpp.html" title="File for LoomCommPlat implementation. " alt="" coords="2734,244,2893,285"/>
+<area shape="rect" id="node5" href="$_loom___log_plat_8cpp.html" title="File for LoomLogPlat implementation. " alt="" coords="4829,251,5049,278"/>
+<area shape="rect" id="node6" href="$_loom___s_d_8cpp.html" title="File for Loom_SD implementation. " alt="" coords="3901,341,4093,367"/>
+<area shape="rect" id="node7" href="$_loom___sleep___manager_8h.html" title="File for Loom_Sleep_Manager definition. " alt="" coords="4269,251,4467,278"/>
+<area shape="rect" id="node9" href="$_loom___manager_8cpp.html" title="File for LoomManager method implementations. " alt="" coords="2888,430,3059,457"/>
+<area shape="rect" id="node10" href="$_loom___interrupt___manager_8cpp.html" title="File for Loom_Interrupt_Manager implementation. " alt="" coords="4302,333,4445,375"/>
+<area shape="rect" id="node12" href="$_loom___manager___module___access_8cpp.html" title="File for LoomManager module access method implementations. " alt="" coords="6279,423,6476,464"/>
+<area shape="rect" id="node14" href="$_loom___n_t_p___sync_8cpp.html" title="File for LoomNTPSync implementation. " alt="" coords="3699,341,3877,367"/>
+<area shape="rect" id="node15" href="$_loom___temperature___sync_8cpp.html" title="File for LoomTempSync implementation. " alt="" coords="5073,244,5242,285"/>
+<area shape="rect" id="node16" href="$_loom___google_sheets_8cpp.html" title="File for Loom_GoogleSheets implementation. " alt="" coords="5521,244,5682,285"/>
+<area shape="rect" id="node17" href="$_loom___max___pub_8cpp.html" title="File for Loom_MaxPub implementation. " alt="" coords="5706,244,5867,285"/>
+<area shape="rect" id="node18" href="$_loom___publish_plat_8cpp.html" title="File for LoomPublishPlat implementation. " alt="" coords="5018,333,5179,375"/>
+<area shape="rect" id="node19" href="$_loom___r_t_c_8cpp.html" title="File for LoomRTC implementation. " alt="" coords="3509,251,3672,278"/>
+<area shape="rect" id="node20" href="$_loom___max___sub_8cpp.html" title="File for Loom_MaxSub implementation. " alt="" coords="5892,244,6047,285"/>
+<area shape="rect" id="node21" href="$_loom___subscribe_plat_8cpp.html" title="File for LoomSubscribePlat implementation. " alt="" coords="6099,333,6282,375"/>
+<area shape="rect" id="node8" href="$_loom___module___factory_8h.html" title="File for LoomFactory, FactoryBase definition and implementations. " alt="" coords="2147,341,2344,367"/>
+<area shape="rect" id="node11" href="$_loom___module___stub_8h.html" title="File for Loom_Module_Stub definition and implementation. " alt="" coords="4474,341,4657,367"/>
+<area shape="rect" id="node13" href="$_loom___sleep___manager_8cpp.html" title="File for Loom_Sleep_Manager implementation. " alt="" coords="3461,341,3675,367"/>
+<area shape="rect" id="node23" href="$_loom___actuator_8h.html" title="File for LoomActuator definition. " alt="" coords="848,155,995,196"/>
+<area shape="rect" id="node29" href="$_loom___comm_plat_8h.html" title="File for LoomCommPlat definition. " alt="" coords="1826,155,1985,196"/>
+<area shape="rect" id="node33" href="$_loom___internet_plat_8h.html" title="File for LoomInternetPlat definition. " alt="" coords="2966,155,3133,196"/>
+<area shape="rect" id="node37" href="$_loom___publish_plat_8h.html" title="File for LoomPublishPlat definition. " alt="" coords="4643,244,4805,285"/>
+<area shape="rect" id="node38" href="$_loom___subscribe_plat_8h.html" title="File for LoomSubscribePlat definition. " alt="" coords="6172,244,6340,285"/>
+<area shape="rect" id="node39" href="$_loom___n_t_p___sync_8h.html" title="File for LoomNTPSync definition. " alt="" coords="2968,251,3131,278"/>
+<area shape="rect" id="node40" href="$_loom___log_plat_8h.html" title="File for LoomLogPlat definition. " alt="" coords="3700,162,3905,189"/>
+<area shape="rect" id="node43" href="$_loom___r_t_c_8h.html" title="File for LoomRTC definition. " alt="" coords="3347,162,3495,189"/>
+<area shape="rect" id="node45" href="$_loom___sensor_8h.html" title="File for LoomSensor definition. " alt="" coords="25,341,225,367"/>
+<area shape="rect" id="node46" href="$_loom___temperature___sync_8h.html" title="File for LoomTempSync definition. " alt="" coords="4097,155,4266,196"/>
+<area shape="rect" id="node47" href="$_loom___interrupt___manager_8h.html" title="File for Loom_Interrupt_Manager definition and supporting enum. " alt="" coords="3930,155,4073,196"/>
+<area shape="rect" id="node48" href="$_loom___multiplexer_8h.html" title="File for Loom_Multiplexer definition, supporting enums, and I2C address selection for conflicts..." alt="" coords="264,251,432,278"/>
+<area shape="rect" id="node49" href="$_loom___module_8cpp.html" title="File for LoomModule implementation. " alt="" coords="4290,162,4451,189"/>
+<area shape="rect" id="node24" href="$_loom___actuator_8cpp.html" title="File for LoomActuator implementation. " alt="" coords="456,244,603,285"/>
+<area shape="rect" id="node25" href="$_loom___neopixel_8h.html" title="File for Loom_Neopixel definition. " alt="" coords="1189,244,1336,285"/>
+<area shape="rect" id="node26" href="$_loom___relay_8h.html" title="File for Loom_Relay definition. " alt="" coords="677,244,824,285"/>
+<area shape="rect" id="node27" href="$_loom___servo_8h.html" title="File for Loom_Servo definition. " alt="" coords="1019,244,1165,285"/>
+<area shape="rect" id="node28" href="$_loom___stepper_8h.html" title="File for Loom_Stepper definition. " alt="" coords="848,244,995,285"/>
+<area shape="rect" id="node30" href="$_loom___bluetooth_8h.html" title="File for Loom_Bluetooth definition. " alt="" coords="2107,244,2266,285"/>
+<area shape="rect" id="node31" href="$_loom___lo_ra_8h.html" title="File for Loom_LoRa definition. " alt="" coords="1361,244,1519,285"/>
+<area shape="rect" id="node32" href="$_loom__n_r_f_8h.html" title="File for Loom_nRF definition. " alt="" coords="1543,244,1702,285"/>
+<area shape="rect" id="node34" href="$_loom___internet_ethernet_8h.html" title="File for Loom_Ethernet definition. " alt="" coords="1917,244,2083,285"/>
+<area shape="rect" id="node35" href="$_loom___internet_plat_8cpp.html" title="File for LoomInternetPlat implementation. " alt="" coords="2342,244,2509,285"/>
+<area shape="rect" id="node36" href="$_loom___internet_wi_fi_8h.html" title="src/InternetPlats/Loom\l_InternetWiFi.h" alt="" coords="1726,244,1893,285"/>
+<area shape="rect" id="node41" href="$_loom___o_l_e_d_8h.html" title="File for Loom_OLED definition. " alt="" coords="3798,251,3991,278"/>
+<area shape="rect" id="node42" href="$_loom___s_d_8h.html" title="File for Loom_SD definition. " alt="" coords="3206,251,3383,278"/>
+<area shape="rect" id="node44" href="$_loom___d_s3231_8h.html" title="File for Loom_DS3231 definition. " alt="" coords="2533,251,2710,278"/>
+</map>

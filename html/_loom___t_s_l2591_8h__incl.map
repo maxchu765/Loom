@@ -1,0 +1,9 @@
+<map id="src/Sensors/I2C/Loom_TSL2591.h" name="src/Sensors/I2C/Loom_TSL2591.h">
+<area shape="rect" id="node2" href="$_loom___i2_c___sensor_8h.html" title="File for LoomI2CSensor definition. " alt="" coords="182,95,330,121"/>
+<area shape="rect" id="node3" href="$_loom___sensor_8h.html" title="File for LoomSensor definition. " alt="" coords="129,169,263,196"/>
+<area shape="rect" id="node4" href="$_loom___module_8h.html" title="File for LoomModule definition. " alt="" coords="135,244,257,271"/>
+<area shape="rect" id="node5" href="$_loom___misc_8h.html" title="File for miscellaneous global Loom function declarations. " alt="" coords="77,393,182,420"/>
+<area shape="rect" id="node7" href="$_loom___macros_8h.html" title="File contains general purpose Loom macros. " alt="" coords="5,468,128,495"/>
+<area shape="rect" id="node8" href="$_loom___translator_8h.html" title="File for declarations of general purpose functions to convert the type of single values or arrays..." alt="" coords="127,319,265,345"/>
+<area shape="rect" id="node9" href="$_loom___package_8h.html" title="File for functions to package data into JsonObject, and extracting data from it. " alt="" coords="289,319,420,345"/>
+</map>

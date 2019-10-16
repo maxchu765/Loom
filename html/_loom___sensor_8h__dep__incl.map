@@ -1,0 +1,51 @@
+<map id="src/Sensors/Loom_Sensor.h" name="src/Sensors/Loom_Sensor.h">
+<area shape="rect" id="node2" href="$_loom___analog_8h.html" title="File for Loom_Analog definition. " alt="" coords="38,177,238,203"/>
+<area shape="rect" id="node6" href="$_loom___manager_8cpp.html" title="File for LoomManager method implementations. " alt="" coords="930,430,1101,457"/>
+<area shape="rect" id="node11" href="$_loom___digital_8h.html" title="File for Loom_Digital definition. " alt="" coords="313,177,509,203"/>
+<area shape="rect" id="node13" href="$_loom___i2_c___sensor_8h.html" title="File for LoomI2CSensor definition. " alt="" coords="3004,80,3165,121"/>
+<area shape="rect" id="node42" href="$_loom___s_d_i12___sensor_8h.html" title="File for LoomSDI12Sensor definition. " alt="" coords="737,80,915,121"/>
+<area shape="rect" id="node46" href="$_loom___s_p_i___sensor_8h.html" title="File for LoomSPISensor definition. " alt="" coords="1235,80,1396,121"/>
+<area shape="rect" id="node50" href="$_loom___sensor_8cpp.html" title="File for LoomSensor implementation. " alt="" coords="3189,87,3404,114"/>
+<area shape="rect" id="node3" href="$_loom___module___factory_8h.html" title="File for LoomFactory, FactoryBase definition and implementations. " alt="" coords="2429,266,2626,293"/>
+<area shape="rect" id="node5" href="$_loom_8h.html" title="src/Loom.h" alt="" coords="2617,430,2710,457"/>
+<area shape="rect" id="node8" href="$_loom___temperature___sync_8cpp.html" title="File for LoomTempSync implementation. " alt="" coords="5,423,175,464"/>
+<area shape="rect" id="node9" href="$_loom___module___stub_8h.html" title="File for Loom_Module_Stub definition and implementation. " alt="" coords="120,348,303,375"/>
+<area shape="rect" id="node10" href="$_loom___analog_8cpp.html" title="File for Loom_Analog implementation. " alt="" coords="104,266,319,293"/>
+<area shape="rect" id="node4" href="$_loom___manager_8h.html" title="File for LoomManager definition. " alt="" coords="445,348,599,375"/>
+<area shape="rect" id="node7" href="$_loom___manager___module___access_8cpp.html" title="File for LoomManager module access method implementations. " alt="" coords="349,423,546,464"/>
+<area shape="rect" id="node12" href="$_loom___digital_8cpp.html" title="File for Loom_Digital implementation. " alt="" coords="445,266,655,293"/>
+<area shape="rect" id="node14" href="$_loom___a_s7262_8h.html" title="File for Loom_AS7262 definition. " alt="" coords="2633,169,2795,211"/>
+<area shape="rect" id="node17" href="$_loom___a_s7263_8h.html" title="File for Loom_AS7263 definition. " alt="" coords="2819,169,2980,211"/>
+<area shape="rect" id="node19" href="$_loom___a_s7265_x_8h.html" title="File for Loom_AS7265X definition. " alt="" coords="3931,169,4092,211"/>
+<area shape="rect" id="node21" href="$_loom___f_x_a_s21002_8h.html" title="File for Loom_FXAS21002 definition. " alt="" coords="4116,169,4277,211"/>
+<area shape="rect" id="node23" href="$_loom___f_x_o_s8700_8h.html" title="File for Loom_FXOS8700 definition. " alt="" coords="4301,169,4463,211"/>
+<area shape="rect" id="node25" href="$_loom___l_i_s3_d_h_8h.html" title="File for Loom_LIS3DH definition. " alt="" coords="4487,169,4648,211"/>
+<area shape="rect" id="node27" href="$_loom___m_b1232_8h.html" title="File for Loom_MB1232 definition. " alt="" coords="4672,169,4833,211"/>
+<area shape="rect" id="node29" href="$_loom___m_m_a8451_8h.html" title="src/Sensors/I2C/Loom\l_MMA8451.h" alt="" coords="1699,169,1860,211"/>
+<area shape="rect" id="node31" href="$_loom___m_p_u6050_8h.html" title="File for Loom_MPU6050 definition. " alt="" coords="2077,169,2239,211"/>
+<area shape="rect" id="node33" href="$_loom___m_s5803_8h.html" title="File for Loom_MS5803 definition. " alt="" coords="2263,169,2424,211"/>
+<area shape="rect" id="node35" href="$_loom___s_h_t31_d_8h.html" title="File for Loom_SHT31D definition. " alt="" coords="2448,169,2609,211"/>
+<area shape="rect" id="node36" href="$_loom___t_m_p007_8h.html" title="File for Loom_TMP007 definition. " alt="" coords="3004,169,3165,211"/>
+<area shape="rect" id="node37" href="$_loom___t_s_l2561_8h.html" title="File for Loom_TSL2561 definition. " alt="" coords="3375,169,3536,211"/>
+<area shape="rect" id="node38" href="$_loom___t_s_l2591_8h.html" title="File for Loom_TSL2591 definition. " alt="" coords="3560,169,3721,211"/>
+<area shape="rect" id="node39" href="$_loom___z_x_gesture_8h.html" title="File for Loom_ZXGesture definition. " alt="" coords="3745,169,3907,211"/>
+<area shape="rect" id="node40" href="$_loom___multiplexer_8h.html" title="File for Loom_Multiplexer definition, supporting enums, and I2C address selection for conflicts..." alt="" coords="1885,177,2053,203"/>
+<area shape="rect" id="node41" href="$_loom___i2_c___sensor_8cpp.html" title="File for LoomI2CSensor implementation. " alt="" coords="3189,169,3351,211"/>
+<area shape="rect" id="node15" href="$_loom___multiplexer_8cpp.html" title="File for Loom_Multiplexer implementation. " alt="" coords="3231,266,3413,293"/>
+<area shape="rect" id="node16" href="$_loom___a_s7262_8cpp.html" title="File for Loom_AS7262 implementation. " alt="" coords="2752,259,2913,300"/>
+<area shape="rect" id="node18" href="$_loom___a_s7263_8cpp.html" title="File for Loom_AS7263 implementation. " alt="" coords="2989,259,3151,300"/>
+<area shape="rect" id="node20" href="$_loom___a_s7265_x_8cpp.html" title="File for Loom_AS7265X implementation. " alt="" coords="3827,259,3988,300"/>
+<area shape="rect" id="node22" href="$_loom___f_x_a_s21002_8cpp.html" title="File for Loom_FXAS21002 implementation. " alt="" coords="4064,259,4225,300"/>
+<area shape="rect" id="node24" href="$_loom___f_x_o_s8700_8cpp.html" title="File for Loom_FXOS8700 implementation. " alt="" coords="4301,259,4463,300"/>
+<area shape="rect" id="node26" href="$_loom___l_i_s3_d_h_8cpp.html" title="File for Loom_LIS3DH implementation. " alt="" coords="4539,259,4700,300"/>
+<area shape="rect" id="node28" href="$_loom___m_b1232_8cpp.html" title="File for Loom_MB1232 implementation. " alt="" coords="4776,259,4937,300"/>
+<area shape="rect" id="node30" href="$_loom___m_m_a8451_8cpp.html" title="File for Loom_MMA8451 implementation. " alt="" coords="1591,259,1752,300"/>
+<area shape="rect" id="node32" href="$_loom___m_p_u6050_8cpp.html" title="File for Loom_MPU6050 implementation. " alt="" coords="1955,259,2116,300"/>
+<area shape="rect" id="node34" href="$_loom___m_s5803_8cpp.html" title="File for Loom_MS5803 implementation. " alt="" coords="2192,259,2353,300"/>
+<area shape="rect" id="node43" href="$_loom___decagon__5_t_m_8h.html" title="File for Loom_Decagon5TM definition. " alt="" coords="939,169,1118,211"/>
+<area shape="rect" id="node44" href="$_loom___decagon___g_s3_8h.html" title="File for Loom_DecagonGS3 definition. " alt="" coords="737,169,915,211"/>
+<area shape="rect" id="node45" href="$_loom___s_d_i12___sensor_8cpp.html" title="File for LoomSDI12Sensor implementation. " alt="" coords="534,169,713,211"/>
+<area shape="rect" id="node47" href="$_loom___m_a_x31855_8h.html" title="File for Loom_MAX31855 definition. " alt="" coords="1328,169,1489,211"/>
+<area shape="rect" id="node48" href="$_loom___m_a_x31856_8h.html" title="File for Loom_MAX31856 definition. " alt="" coords="1513,169,1675,211"/>
+<area shape="rect" id="node49" href="$_loom___s_p_i___sensor_8cpp.html" title="File for LoomSPISensor implementation. " alt="" coords="1143,169,1304,211"/>
+</map>
