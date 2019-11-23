@@ -119,7 +119,7 @@ LoomI2CSensor* Loom_Multiplexer::generate_sensor_object(const byte i2c_address, 
 			if (i2c_0x1C == I2C_Selection::L_MMA8451)  return new Loom_MMA8451(i2c_address, port);	// MMA8451
 			if (i2c_0x1C == I2C_Selection::L_FXOS8700) return new Loom_FXOS8700(i2c_address, port);	// FXOS8700
 
-		case 0x1D : // MMA8451 / FXOS8700
+		//case 0x1D : // MMA8451 / FXOS8700
 			if (i2c_0x1D == I2C_Selection::L_MMA8451)  return new Loom_MMA8451(i2c_address, port);	// MMA8451
 			if (i2c_0x1D == I2C_Selection::L_FXOS8700) return new Loom_FXOS8700(i2c_address, port);	// FXOS8700
 
@@ -143,7 +143,7 @@ LoomI2CSensor* Loom_Multiplexer::generate_sensor_object(const byte i2c_address, 
 			if (i2c_0x49 == I2C_Selection::L_AS7263 ) return new Loom_AS7263(i2c_address, port);		// AS7263
 			if (i2c_0x49 == I2C_Selection::L_AS7265X) return new Loom_AS7265X(i2c_address, port);	// AS7265X
 			
-		case 0x68 : return new Loom_MPU6050(i2c_address, port);	// MPU6050
+		//case 0x68 : return new Loom_MPU6050(i2c_address, port);	// MPU6050
 		case 0x69 : return new Loom_MPU6050(i2c_address, port);	// MPU6050
 		case 0x70 : return new Loom_MB1232(i2c_address, port);	// MB1232
 		case 0x76 : return new Loom_MS5803(i2c_address, port);	// MS5803
