@@ -246,9 +246,15 @@ void LoomManager::add_tip_count(int tipCount)
 	add_data("Tip", "Count", tipCount);
 }
 
-void LoomManager::add_teros(String data)
+void LoomManager::add_teros1(String data)
 {
-	add_data("Teros","1", data);
+
+	add_data("Teros_1", "Moisture", data);
+}
+
+void LoomManager::add_teros2(String data)
+{
+	add_data("Teros_2", "Moisture", data);
 }
 
 ///////////////////////////////////////////////////////////////////////////////

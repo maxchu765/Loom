@@ -262,7 +262,9 @@ public:
 	void 		add_tip_count(int tipCount);
 
 	///Add teros data to json
-	void		add_teros(String data);
+	void		add_teros1(String data);
+
+	void 		add_teros2(String data);
 
 	/// Publish
 	/// @param[in]	json	Data object to publish
